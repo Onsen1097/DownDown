@@ -75,7 +75,6 @@ public class MainActivity extends AppCompatActivity {
                 if (Language.equals("Japanese")) {
                     targetLanguage = "ja";
                 }
-
             }
             public void onNothingSelected(AdapterView<?> parent)
             {

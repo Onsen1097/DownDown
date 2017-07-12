@@ -80,10 +80,10 @@
         tools:layout_editor_absoluteY="16dp">
 
         <ImageView
-            android:id="@+id/imageView6"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            app:srcCompat="@mipmap/eee" />
+            android:id="@+id/imageView3"
+            android:layout_width="379dp"
+            android:layout_height="wrap_content"
+            app:srcCompat="@mipmap/wer" />
     </FrameLayout>
 
 </android.support.constraint.ConstraintLayout>
